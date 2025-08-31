@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [ARUNKRISHNA V J]  
+- Certification: [META FULL STACK DEVELOPER]  
 
 ## Instructions
 Please replace the placeholders with your details:
